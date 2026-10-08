@@ -1,19 +1,5 @@
 <div align="center">
-
-```
- _   __  ___   _     _____   _   _  _____  ___ ______ _      _____ _____ _____ 
-| | / / / _ \ | |   |_   _| | | | ||  ___|/ _ \|  _  \ |    |  ___/  ___/  ___|
-| |/ / / /_\ \| |     | |   | |_| || |__ / /_\ \ | | | |    | |__ \ `--.\ `--. 
-|    \ |  _  || |     | |   |  _  ||  __||  _  | | | | |    |  __| `--. \`--. \
-| |\  \| | | || |_____| |_  | | | || |___| | | | |/ /| |____| |___/\__/ /\__/ /
-\_| \_/\_| |_/\_____/\___/  \_| |_/\____/\_| |_/___/ \_____/\____/\____/\____/
-```
-
-`[ no monitor // no keyboard // wifi up before first boot ]`
-
-![kali](https://img.shields.io/badge/KALI_LINUX-ff00c8?style=for-the-badge&logo=kalilinux&logoColor=00fff9&labelColor=0a0014)
-![pi](https://img.shields.io/badge/RASPBERRY_PI-00fff9?style=for-the-badge&logo=raspberrypi&logoColor=0a0014&labelColor=0a0014)
-
+<img src="./assets/hero.svg" width="100%"/>
 </div>
 
 <br>
